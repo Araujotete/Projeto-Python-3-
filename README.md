@@ -1,4 +1,4 @@
-# Projeto Python para curso
+# Projeto Python 
 
 ## Site para alunos de Jiu-Jitsu
 - Inscrição do aluno
